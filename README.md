@@ -1,4 +1,4 @@
-# Hi, I'm Amira Gamal Yassin 👋
+# Hi, I'm Amira Yassin 👋
 
 ### 👩‍🔬 Data Science Researcher | MSc in Informatics | AI Innovation
 
@@ -32,7 +32,7 @@ I recently developed **[VeriMed-GenAI](https://github.com/amiragamalyassin/VeriM
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [Amira Gamal Yassin](https://www.linkedin.com/in/amira-yassin-3b293517a/)
+* **LinkedIn:** [Amira Yassin](https://www.linkedin.com/in/amira-yassin-3b293517a/)
 * **GitHub:** [@amiragamalyassin](https://github.com/amiragamalyassin)
 
 *"Empowering humanity through data and verified AI insights."*
