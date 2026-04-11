@@ -1,6 +1,6 @@
 # Hi, I'm Amira Yassin 👋
 
-### 👩‍🔬 Data Science Researcher | MSc in Informatics | AI Innovation
+###  Data Science Researcher | MSc in Informatics | AI Innovation
 
 I am a **Data Science Researcher** with an **MSc in Informatics**, dedicated to bridging the gap between advanced AI research and real-world applications. As a **Women Techmakers (WTM) Ambassador, Google Developer Groups Lead & Women in Data Science Ambassador**, I am passionate about mentoring individuals in tech and building a more inclusive AI community.
 
